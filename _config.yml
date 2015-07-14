@@ -7,9 +7,9 @@ relative_permalinks: true
 # Setup
 title:               Poole
 tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+url:                 https://mobilabsp.github.io/poole/
 paginate:            1
-baseurl:             ""
+baseurl:             "https://mobilabsp.github.io/poole"
 
 # Assets
 #
@@ -27,4 +27,4 @@ author:
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/mobilabsp/poole
