@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Hoje em dia, anda tudo zuado, né?
